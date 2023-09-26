@@ -2,4 +2,5 @@
 100 projects in python 
 ## Contents
 [1 - Wordlist generator](https://github.com/lunaq88/100py/tree/main/1)
-[1 - Simple spambot](https://github.com/lunaq88/100py/tree/main/2)
+
+[2 - Simple spambot](https://github.com/lunaq88/100py/tree/main/2)
